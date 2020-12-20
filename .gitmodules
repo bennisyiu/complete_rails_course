@@ -1,0 +1,3 @@
+[submodule "complete_rails_course"]
+	path = complete_rails_course
+	url = git@github.com:bennisyiu/complete_rails_course.git
